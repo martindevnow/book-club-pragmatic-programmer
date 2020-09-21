@@ -1,6 +1,6 @@
 # Book Club - The Pragmatic Programmer
 
-### ["The Pragmatic Programmer: your journey to mastery"](https://www.amazon.ca/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/, by Andrew Hunt, and David Thomas
+### ["The Pragmatic Programmer: your journey to mastery"](https://www.amazon.ca/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/), by Andrew Hunt, and David Thomas
 
 > The Pragmatic Programmer is one of those rare tech books you’ll read, re-read, and read again over the years. Whether you’re new to the field or an experienced practitioner, you’ll come away with fresh insights each and every time.
 
