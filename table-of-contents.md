@@ -1,100 +1,89 @@
 # Pragmatic Programmer, The: From Journeyman to Master (pg 6~)
 
-## Foreword (pg 9~)
+## Foreword (pg xi~)
 
-## Preface (pg 12~)
+## Preface(s) (pg xv~)
 
-- Who Should Read This Book?
-- What Makes a Pragmatic Programmer?
-- Individual Pragmatists, Large Teams
-- It's a Continuous Process
-- How the Book Is Organized
-- What's in a Name?
+## 1. A Pragmatic Philosophy (pg 1~)
 
-## 1. A Pragmatic Philosophy (pg 23~)
+1. It's your life
+2. The Cat Ate My Source Code
+3. Software Entropy
+4. Stone Soup and Boiled Frogs
+5. Good-Enough Software
+6. Your Knowledge Portfolio
+7. Communicate!
 
-- The Cat Ate My Source Code
-- Software Entropy
-- Stone Soup and Boiled Frogs
-- Good-Enough Software
-- Your Knowledge Portfolio
-- Communicate!
-- Summary
+## 2. A Pragmatic Approach (pg 27~)
 
-## 2. A Pragmatic Approach (pg 48~)
+8. The Essence of Good Design
+9. DRY -- The Evils of Duplication
+10. Orthogonality
+11. Reversibility
+12. Tracer Bullets
+13. Prototypes and Post-it Notes
+14. Domain Languages
+15. Estimating
 
-- The Evils of Duplication
-- Orthogonality
-- Reversibility
-- Tracer Bullets
-- Prototypes and Post-it Notes
-- Domain Languages
-- Estimating
+## 3. The Basic Tools (pg 73~)
 
-## 3. The Basic Tools (pg 96~)
+16. The Power of Plain Text
+17. Shell Games
+18. Power Editing
+19. Version Control
+20. Debugging
+21. Text Manipulation
+22. Engineering Daybooks
 
-- The Power of Plain Text
-- Shell Games
-- Power Editing
-- Source Code Control
-- But My Team Isn't Using Source Code Control
-- Source Code Control Products
-- Debugging
-- Text Manipulation
-- Exercises
-- Code Generators
+## 4. Pragmatic Paranoia (pg 103~)
 
-## 4. Pragmatic Paranoia (pg 139~)
+23. Design by Contract
+24. Dead Programs Tell No Lies
+25. Assertive Programming
+26. How to Balance Resources
+27. Don't Outrun Your Headlights
 
-- Design by Contract
-- Dead Programs Tell No Lies
-- Assertive Programming
-- When to Use Exceptions
-- How to Balance Resources
-- Objects and Exceptions
-- Balancing and Exceptions
-- When You Can't Balance Resources
-- Checking the Balance
-- Exercises
+## 5. Bend or Break (pg 129~)
 
-## 5. Bend or Break (pg 179~)
+28. Decoupling
+29. Juggling the Real World
+30. Transforming Programming
+31. Inheritance Tax
+32. Configuration
 
-- Decoupling and the Law of Demeter
-- Metaprogramming
-- Temporal Coupling
-- It's Just a View
-- Blackboards
+## 6. Concurrency (pg 169~)
 
-## 6. While You Are Coding (pg 212~)
+33. Breaking Temporal Coupling
+34. Shared State Is Incorrect State
+35. Actors and Processes
+36. Blackboards
 
-- Programming by Coincidence
-- Algorithm Speed
-- Refactoring
-- Code That's Easy to Test
-- Evil Wizards
+## 7. While You Are Coding (pg 191~)
 
-## 7. Before the Project (pg 242~)
+37. Listen to Your Lizard Brain
+38. Programming by Coincidence
+39. Algorithm Speed
+40. Refactoring
+41. Test to Code
+42. Property-Based Testing
+43. Stay Safe Out There
+44. Naming Things
 
-- The Requirements Pit
-- Solving Impossible Puzzles
-- Not Until You're Ready
-- The Specification Trap
-- Circles and Arrows
+## 8. Before the Project (pg 243~)
 
-## 8. Pragmatic Projects (pg 264~)
+45. The Requirements Pit
+46. Solving Impossible Puzzles
+47. Working Together
+48. The Essence of Agility
 
-- Pragmatic Teams
-- Ubiquitous Automation
-- Ruthless Testing
-- It's All Writing
-- Great Expectations
-- Pride and Prejudice
+## 9. Pragmatic Projects (pg 263~)
 
-## A. Resources (pg 302~)
+49. Pragmatic Teams
+50. Coconuts Don't Cut It
+51. Pragmatic Starter Kit
+52. Delight Your Users
+53. Pride and Prejudice
 
-- Professional Societies
-- Building a Library
-- Internet Resources
-- Bibliography
+## A. Other (pg 285~)
 
-## B. Answers to Exercises
+## B. Answers to Exercises (pg 293~)

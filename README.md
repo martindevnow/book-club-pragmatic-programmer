@@ -16,17 +16,17 @@ Finally, while it's to your benefit to read the chapter ahead of time, it's not 
 
 ### Meeting schedule:
 
-| Chapters | Topic                         | Pages          | Date               | Reviewer |
-| -------- | ----------------------------- | -------------- | ------------------ | -------- |
-| Intro    | Foreword, Preface, Mtg Format | 1 - 22 (22)    | Mon, Oct 5 2020    | Ben      |
-| 1        | A Pragmatic Philosophy        | 23 - 47 (25)   | Mon, Oct 19 2020   |          |
-| 2        | A Pragmatic Approach          | 48 - 95 (48)   | Mon, Nov 2 2020    |          |
-| 3        | The Basic Tools               | 96 - 138 (43)  | Mon, Nov 16 2020   |          |
-| 4        | Pragmatic Paranoia            | 139 - 178 (40) | Mon, Nov 30 2020   |          |
-| 5        | Bend or Break                 | 179 - 211 (33) | \*Mon, Dec 14 2020 |          |
-| 6        | While You Are Coding          | 212 - 241 (30) | \*Mon, Jan 11 2021 |          |
-| 7        | Before the Project            | 242 - 263 (22) | \*Mon, Jan 25 2021 |          |
-| 8        | Pragmatic Projects            | 264 - 301 (38) | \*Mon, Feb 8 2021  |          |
+| Chapters | Topic                                   | Pages          | Date               | Reviewer |
+| -------- | --------------------------------------- | -------------- | ------------------ | -------- |
+| Intro    | Foreword, Preface, Mtg Format           | i - xxii       | Mon, Oct 5 2020    | Ben      |
+| 1        | A Pragmatic Philosophy                  | 1 - 26 (26)    | Mon, Oct 19 2020   |          |
+| 2        | A Pragmatic Approach                    | 27 - 72 (46)   | Mon, Nov 2 2020    |          |
+| 3        | The Basic Tools                         | 73 - 102 (30)  | Mon, Nov 16 2020   |          |
+| 4        | Pragmatic Paranoia                      | 103 - 128 (26) | Mon, Nov 30 2020   |          |
+| 5        | Bend or Break                           | 129 - 168 (40) | \*Mon, Dec 14 2020 |          |
+| 6        | Concurrency                             | 169 - 190 (22) | \*Mon, Dec 28 2020 |          |
+| 7        | While You Are Coding                    | 191 - 242 (52) | \*Mon, Jan 11 2021 |          |
+| 8 & 9    | Before the Project & Pragmatic Projects | 243 - 284 (42) | \*Mon, Jan 25 2021 |          |
 
 > **All meetings will take place at 1:00 PM, as per the meeting invite. Please use the zoom link included there.**
 
